@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-📖 I'm currently studying the final year computer science. \
+📖 I'm currently studying in my final year of computer science. \
+🔭 I looking for a job to start my career at the end of 2024. \
 🌱 I have mostly used java, html, css, React, javascript, typescript, mySQL
 
 
