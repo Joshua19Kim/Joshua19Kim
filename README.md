@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+📖 I'm currently studying the final year computer science.
+🌱 I have mostly used java, html, css, React, javascript, typescript, mySQL
+
+
+
 <!--
 **Joshua19Kim/Joshua19Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
