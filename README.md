@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-📖 I'm currently studying the final year computer science.
+📖 I'm currently studying the final year computer science. \
 🌱 I have mostly used java, html, css, React, javascript, typescript, mySQL
 
 
