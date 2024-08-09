@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-📖 I'm currently studying in my final year of computer science. \
+📖 I'm currently studying in my final year of computer science at University of Canterbury. \
 🔭 I looking for a job to start my career at the end of 2024. \
 🌱 I have mostly used java, html, css, React, javascript, typescript, mySQL
 
