@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-📖 I'm currently studying in my final year of computer science at University of Canterbury. \
-🔭 I looking for a job to start my career at the end of 2024. \
-🌱 I have mostly used java, html, css, React, javascript, typescript, mySQL
+📖 I recently completed a Bachelor’s degree in Computer Science at the University of Canterbury (November 2024, the graduation ceremony scheduled for April 2025). \
+🔭 I am currently seeking a job to start my career as a software developer. \
+🌱  My technical expertise includes JavaScript, TypeScript, React, Java, HTML, CSS, SQL, Sanity, and Vercel. \
 
 
 
