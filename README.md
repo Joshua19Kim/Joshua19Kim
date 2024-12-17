@@ -10,6 +10,15 @@
 
 🔭 Currently, I'm planning my own social media project and studying C#.Net, Azure to use them for my project and also expand my job opportunity area.
 
+---
+## My Daily Goal
+
+### NEVER STOP LEARNING. 
+
+### Push at least ONE meaningful commit
+
+
+---
 
 <!--
 **Joshua19Kim/Joshua19Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
