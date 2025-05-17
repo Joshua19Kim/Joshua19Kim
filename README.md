@@ -1,8 +1,8 @@
 👋 Hi there 
 
-🎓 I recently completed a Bachelor's degree in Computer Science at the University of Canterbury.
+🎓 I completed a Bachelor's degree in Computer Science at the University of Canterbury at the end of 2024.
 
-💼 I am currently seeking a job to start my career as a software developer.
+💼 I am developing as my side job.
 
 ⚡ My technical expertise includes JavaScript, TypeScript, React, Java, HTML, CSS, SQL, Sanity, and Vercel.
 
